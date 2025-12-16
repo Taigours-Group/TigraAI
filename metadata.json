@@ -1,0 +1,7 @@
+{
+  "name": "Tigra AI - TGO",
+  "description": "A highly sophisticated AI assistant developed by the Taigours Group of Organizations (TGO), designed for intellectual growth and emotional support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
